@@ -71,8 +71,8 @@ PopularReads
 
 ### ✅ Requirements
 
-- Xcode 15 or later
-- iOS 17+
+- Xcode 16+
+- iOS 18+
 - Swift 5.9+
 - A valid NYTimes API Key ([Get one here](https://developer.nytimes.com/get-started))
 
