@@ -147,7 +147,22 @@ This project uses *.xcconfig* files for environment setup.
              // Use Real API
          }
       ```
+## Running Tests
 
+In Xcode:
+Select scheme (e.g., PopularReads) and hit Cmd+U.
+The tests will execute—check results in Test Navigator (Cmd+6) or Report Navigator (Cmd+9).
+
+## Viewing Code Coverage
+
+In Xcode:
+Open Report Navigator (Cmd+9).
+Select the latest test report.
+Click the Coverage tab to view per-file and per-line coverage 
+Sarunw
+Codecov
+.
+Covered lines appear in green, while uncovered ones appear in red with execution counts
 
       
 
