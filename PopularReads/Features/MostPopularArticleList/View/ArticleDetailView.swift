@@ -8,6 +8,7 @@
 import SwiftUI
 
 struct ArticleDetailView: View {
+    @Environment(\.openURL) private var openURL
     let article: Article
 
     var body: some View {
@@ -30,7 +31,7 @@ struct ArticleDetailView: View {
                 // Read Full Article Button
                 if let url = URL(string: article.url) {
                     AppButton(title: "Read Full Article", style: .primary) {
-                        UIApplication.shared.open(url)
+                        openURL(url)
                     }
                     .padding(.top, 16)
                     .accessibilityIdentifier("detailArticleReadFullArticleButton")
@@ -42,7 +43,6 @@ struct ArticleDetailView: View {
         }
         .accessibilityIdentifier("articleDetailView")
         .navigationTitle("Article")
-        .navigationBarTitleDisplayMode(.inline)
     }
 }
 
