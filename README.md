@@ -131,12 +131,14 @@ This project uses *.xcconfig* files for environment setup.
 5. Run with Mock API, You can run the app with a mocked API (no real network calls) by passing a command line argument.
      Xcode Scheme Setup
       a) Go to Xcode → Product → Scheme → Edit Scheme…
-      b) Select Run → Arguments Passed on Launch
+      b) Duplicate Scheme and edit name PopularReads-mocked instead of Copy of PopularReads.
+      c) Now edit new scheme as you created.
+      d) Select Run → Arguments Passed on Launch
          Add the following flag:
       ```diff
-         -mocked
+      -mocked
       ```
-      c) Make sure before runnning app with mock "-mocked" should be available on App entry point
+      e) Make sure before runnning app with mock "-mocked" should be available on App entry point
 
       ```swift
           if ProcessInfo.processInfo.arguments.contains("-mocked") {
