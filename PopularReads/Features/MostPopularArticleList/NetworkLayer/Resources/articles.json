@@ -1,0 +1,1276 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2025 The New York Times Company.  All Rights Reserved.",
+    "num_results": 20,
+    "results": [
+        {
+            "uri": "nyt://article/5b53da1b-91f6-50d9-a262-8db0606259aa",
+            "url": "https://www.nytimes.com/2025/08/08/us/trump-military-drug-cartels.html",
+            "id": 100000010325461,
+            "asset_id": 100000010325461,
+            "source": "New York Times",
+            "published_date": "2025-08-08",
+            "updated": "2025-08-09 12:35:45",
+            "section": "U.S.",
+            "subsection": "",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Drug Cartels;United States Defense and Military Forces;United States International Relations;Presidential Power (US);Trump, Donald J;Mara Salvatrucha (MS-13);Tren de Aragua (Gang);Mexico;Venezuela",
+            "column": null,
+            "byline": "By Helene Cooper, Maggie Haberman, Charlie Savage and Eric Schmitt",
+            "type": "Article",
+            "title": "Trump Directs Military to Target Foreign Drug Cartels",
+            "abstract": "The president has ordered the Pentagon to use the armed forces to carry out what in the past was considered law enforcement.",
+            "des_facet": [
+                "Drug Cartels",
+                "United States Defense and Military Forces",
+                "United States International Relations",
+                "Presidential Power (US)"
+            ],
+            "org_facet": [
+                "Mara Salvatrucha (MS-13)",
+                "Tren de Aragua (Gang)"
+            ],
+            "per_facet": [
+                "Trump, Donald J"
+            ],
+            "geo_facet": [
+                "Mexico",
+                "Venezuela"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Trump ordered the State Department to label drug cartels as terrorist organizations after taking office in January.",
+                    "copyright": "Haiyun Jiang/The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2025/08/06/multimedia/00dc-cartels-01-whpg/00dc-cartels-01-whpg-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2025/08/06/multimedia/00dc-cartels-01-whpg/00dc-cartels-01-whpg-mediumThreeByTwo210-v3.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2025/08/06/multimedia/00dc-cartels-01-whpg/00dc-cartels-01-whpg-mediumThreeByTwo440-v3.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/d858fdcb-4d5d-51f2-95f4-3ebb3d959d0b",
+            "url": "https://www.nytimes.com/2025/08/11/opinion/america-short-term-thinking.html",
+            "id": 100000010309550,
+            "asset_id": 100000010309550,
+            "source": "New York Times",
+            "published_date": "2025-08-11",
+            "updated": "2025-08-13 12:30:23",
+            "section": "Opinion",
+            "subsection": "",
+            "nytdsection": "opinion",
+            "adx_keywords": "United States Politics and Government;United States Economy;Global Warming;Artificial Intelligence;Regulation and Deregulation of Industry;Trump, Donald J;Republican Party;Democratic Party",
+            "column": null,
+            "byline": "By Ben Rhodes",
+            "type": "Article",
+            "title": "We’re Trapped in Trump’s Reality. This Is How We Escape It.",
+            "abstract": "Trump may be able to escape the consequences of his actions; the rest of us cannot.",
+            "des_facet": [
+                "United States Politics and Government",
+                "United States Economy",
+                "Global Warming",
+                "Artificial Intelligence",
+                "Regulation and Deregulation of Industry"
+            ],
+            "org_facet": [
+                "Republican Party",
+                "Democratic Party"
+            ],
+            "per_facet": [
+                "Trump, Donald J"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Lauren Peters-Collaer",
+                    "approved_for_syndication": 0,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2025/08/11/opinion/11rhodes-image/11rhods-image-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2025/08/11/opinion/11rhodes-image/11rhods-image-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2025/08/11/opinion/11rhodes-image/11rhods-image-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/1dd02def-db2d-5652-85c0-53340da50dfe",
+            "url": "https://www.nytimes.com/2025/08/11/us/austin-shooting.html",
+            "id": 100000010334765,
+            "asset_id": 100000010334765,
+            "source": "New York Times",
+            "published_date": "2025-08-11",
+            "updated": "2025-08-15 07:13:07",
+            "section": "U.S.",
+            "subsection": "",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Robberies and Thefts;Murders, Attempted Murders and Homicides;Mental Health and Disorders;Deaths (Fatalities);Target Corporation;Austin (Tex);Texas",
+            "column": null,
+            "byline": "By Pooja Salhotra and Dave Montgomery",
+            "type": "Article",
+            "title": "Victims of Austin Gunman Included Grandfather and 4-Year-Old Granddaughter",
+            "abstract": "Ethan Nieneker, identified by police as the gunman who had led them on a violent chase, had a history of domestic violence, mental health problems and arrests.",
+            "des_facet": [
+                "Robberies and Thefts",
+                "Murders, Attempted Murders and Homicides",
+                "Mental Health and Disorders",
+                "Deaths (Fatalities)"
+            ],
+            "org_facet": [
+                "Target Corporation"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Austin (Tex)",
+                "Texas"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Brandon Bell/Getty Images",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2025/08/12/multimedia/12nat-texas-shooting-new-vid-cover-hlkq/12nat-texas-shooting-new-vid-cover-hlkq-thumbStandard-v2.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2025/08/12/multimedia/12nat-texas-shooting-new-vid-cover-hlkq/12nat-texas-shooting-new-vid-cover-hlkq-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2025/08/12/multimedia/12nat-texas-shooting-new-vid-cover-hlkq/12nat-texas-shooting-new-vid-cover-hlkq-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/63128d14-7ac7-5c42-a07d-ce5135cb0d9a",
+            "url": "https://www.nytimes.com/2025/08/08/opinion/national-enquirer-trump.html",
+            "id": 100000010322523,
+            "asset_id": 100000010322523,
+            "source": "New York Times",
+            "published_date": "2025-08-08",
+            "updated": "2025-08-10 22:29:12",
+            "section": "Opinion",
+            "subsection": "",
+            "nytdsection": "opinion",
+            "adx_keywords": "News and News Media;Newspapers;Presidential Election of 2016;Ethics and Official Misconduct;Trump, Donald J;Pecker, David J;Sajudin, Dino;McDougal, Karen (1971- );American Media Inc;National Enquirer",
+            "column": null,
+            "byline": "By Cameron Stracher",
+            "type": "Article",
+            "title": "I Helped Bury Stories About Trump. I Regret It.",
+            "abstract": "What if those two unpublished National Enquirer stories had run?",
+            "des_facet": [
+                "News and News Media",
+                "Newspapers",
+                "Presidential Election of 2016",
+                "Ethics and Official Misconduct"
+            ],
+            "org_facet": [
+                "American Media Inc",
+                "National Enquirer"
+            ],
+            "per_facet": [
+                "Trump, Donald J",
+                "Pecker, David J",
+                "Sajudin, Dino",
+                "McDougal, Karen (1971- )"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Lucas Burtin",
+                    "approved_for_syndication": 0,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2025/08/11/opinion/07stracher/07stracher-thumbStandard.png",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2025/08/11/opinion/07stracher/07stracher-mediumThreeByTwo210.png",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2025/08/11/opinion/07stracher/07stracher-mediumThreeByTwo440.png",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/6128dbfc-2f71-5495-b61d-fe957be7adcf",
+            "url": "https://www.nytimes.com/2025/08/08/opinion/seed-oils-nutrition-ingredients-science.html",
+            "id": 100000010314843,
+            "asset_id": 100000010314843,
+            "source": "New York Times",
+            "published_date": "2025-08-08",
+            "updated": "2025-08-13 23:37:28",
+            "section": "Opinion",
+            "subsection": "",
+            "nytdsection": "opinion",
+            "adx_keywords": "Diet and Nutrition;Oils and Fats;Processed and Ultraprocessed Foods;Research",
+            "column": null,
+            "byline": "By Emily Oster",
+            "type": "Article",
+            "title": "The Trouble With French Fries Is Not the Oil",
+            "abstract": "Nutrition science demonizing individual foods or ingredients is often based on flawed science and misses the bigger picture.",
+            "des_facet": [
+                "Diet and Nutrition",
+                "Oils and Fats",
+                "Processed and Ultraprocessed Foods",
+                "Research"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Rob Frogoso",
+                    "approved_for_syndication": 0,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2025/08/14/opinion/08oster/08oster-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2025/08/14/opinion/08oster/08oster-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2025/08/14/opinion/08oster/08oster-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/c19843be-c6f7-5b16-97bb-86f035cb830c",
+            "url": "https://www.nytimes.com/2025/08/12/us/politics/russia-hack-federal-court-system.html",
+            "id": 100000010335822,
+            "asset_id": 100000010335822,
+            "source": "New York Times",
+            "published_date": "2025-08-12",
+            "updated": "2025-08-13 08:31:11",
+            "section": "U.S.",
+            "subsection": "Politics",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Cyberwarfare and Defense;Espionage and Intelligence Services;Federal Courts (US);United States Politics and Government;United States International Relations;Courts and the Judiciary;Justice Department;Russia",
+            "column": null,
+            "byline": "By Adam Goldman, Glenn Thrush and Mattathias Schwartz",
+            "type": "Article",
+            "title": "Russia Is Suspected to Be Behind Breach of Federal Court Filing System",
+            "abstract": "Federal officials are scrambling to assess the damage and address flaws in a sprawling, heavily used computer system long known to have vulnerabilities.",
+            "des_facet": [
+                "Cyberwarfare and Defense",
+                "Espionage and Intelligence Services",
+                "Federal Courts (US)",
+                "United States Politics and Government",
+                "United States International Relations",
+                "Courts and the Judiciary"
+            ],
+            "org_facet": [
+                "Justice Department"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Russia"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Justice Department previously issued guidance in early 2021 about protecting federal court documents after the case management system was first hacked.",
+                    "copyright": "Michael A. McCoy for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2025/08/12/multimedia/dc-hack-kwhf/dc-hack-kwhf-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2025/08/12/multimedia/dc-hack-kwhf/dc-hack-kwhf-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2025/08/12/multimedia/dc-hack-kwhf/dc-hack-kwhf-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/97a911e4-02ae-5014-b57f-89fdf595ee08",
+            "url": "https://www.nytimes.com/2025/08/11/opinion/lauren-southern-tradwife-maga.html",
+            "id": 100000010334631,
+            "asset_id": 100000010334631,
+            "source": "New York Times",
+            "published_date": "2025-08-11",
+            "updated": "2025-08-12 18:24:41",
+            "section": "Opinion",
+            "subsection": "",
+            "nytdsection": "opinion",
+            "adx_keywords": "Women and Girls;Women's Rights;Conservatism (US Politics);Right-Wing Extremism and Alt-Right;Discrimination;Southern, Lauren (1995- )",
+            "column": null,
+            "byline": "By Michelle Goldberg",
+            "type": "Article",
+            "title": "A Right-Wing Influencer Tried to Be a Tradwife. It Almost Broke Her.",
+            "abstract": "Being an anti-feminist, it turns out, is no shield against abusive male power.",
+            "des_facet": [
+                "Women and Girls",
+                "Women's Rights",
+                "Conservatism (US Politics)",
+                "Right-Wing Extremism and Alt-Right",
+                "Discrimination"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Southern, Lauren (1995- )"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Eylul Aslan/Connected Archives",
+                    "approved_for_syndication": 0,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2025/08/11/arts/11goldberg/11goldberg-thumbStandard-v2.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2025/08/11/arts/11goldberg/11goldberg-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2025/08/11/arts/11goldberg/11goldberg-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/c8ab72e9-2684-52b2-9d81-336714a36e6e",
+            "url": "https://www.nytimes.com/2025/08/08/us/politics/trump-billy-long-irs-commissioner.html",
+            "id": 100000010331233,
+            "asset_id": 100000010331233,
+            "source": "New York Times",
+            "published_date": "2025-08-08",
+            "updated": "2025-08-09 00:29:01",
+            "section": "U.S.",
+            "subsection": "Politics",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Appointments and Executive Changes;Federal Taxes (US);United States Politics and Government;Long, William H II;Trump, Donald J;Internal Revenue Service",
+            "column": null,
+            "byline": "By Andrew Duehren, Alan Rappeport and Maggie Haberman",
+            "type": "Article",
+            "title": "Trump Is Removing I.R.S. Chief 2 Months After He Was Confirmed",
+            "abstract": "Billy Long, a former Republican congressman, will no longer serve as the tax agency’s head. Treasury Secretary Scott Bessent will oversee the agency as acting commissioner.",
+            "des_facet": [
+                "Appointments and Executive Changes",
+                "Federal Taxes (US)",
+                "United States Politics and Government"
+            ],
+            "org_facet": [
+                "Internal Revenue Service"
+            ],
+            "per_facet": [
+                "Long, William H II",
+                "Trump, Donald J"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Billy Long during his nomination hearing in May.",
+                    "copyright": "Kenny Holston/The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2025/08/08/multimedia/dc-irs-lmwj/dc-irs-lmwj-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2025/08/08/multimedia/dc-irs-lmwj/dc-irs-lmwj-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2025/08/08/multimedia/dc-irs-lmwj/dc-irs-lmwj-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/8247962d-e453-5ab7-8de1-5ad99c92c429",
+            "url": "https://www.nytimes.com/2025/08/11/us/politics/rick-perry-drug-psychedelics-ibogaine.html",
+            "id": 100000010328847,
+            "asset_id": 100000010328847,
+            "source": "New York Times",
+            "published_date": "2025-08-11",
+            "updated": "2025-08-12 23:17:12",
+            "section": "U.S.",
+            "subsection": "Politics",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Psychedelic and Hallucinogenic Drugs;United States Politics and Government;Drug Abuse and Traffic;Veterans;Brain;Therapy and Rehabilitation;Clinical Trials;Drugs (Pharmaceuticals);Perry, Rick;Sinema, Kyrsten;Collins, Douglas A (1966- );Makary, Marty;Perkins, Anthony Richard;Luttrell, Morgan;Energy Department;Food and Drug Administration;Stanford University;Navy Seals",
+            "column": null,
+            "byline": "By Robert Draper",
+            "type": "Article",
+            "title": "The Long, Strange Trip of Rick Perry",
+            "abstract": "The former Texas governor and Trump energy secretary has now dedicated his life to promoting the powerful psychedelic ibogaine.",
+            "des_facet": [
+                "Psychedelic and Hallucinogenic Drugs",
+                "United States Politics and Government",
+                "Drug Abuse and Traffic",
+                "Veterans",
+                "Brain",
+                "Therapy and Rehabilitation",
+                "Clinical Trials",
+                "Drugs (Pharmaceuticals)"
+            ],
+            "org_facet": [
+                "Energy Department",
+                "Food and Drug Administration",
+                "Stanford University",
+                "Navy Seals"
+            ],
+            "per_facet": [
+                "Perry, Rick",
+                "Sinema, Kyrsten",
+                "Collins, Douglas A (1966- )",
+                "Makary, Marty",
+                "Perkins, Anthony Richard",
+                "Luttrell, Morgan"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Rick Perry has emerged as a leading champion of using the powerful psychotropic drug ibogaine as a potential treatment for brain trauma, addiction and even cognitive decline.",
+                    "copyright": "Meridith Kohut for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2025/08/13/multimedia/perry-print1/dc-perry50-vkjm-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2025/08/13/multimedia/perry-print1/dc-perry50-vkjm-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2025/08/13/multimedia/perry-print1/dc-perry50-vkjm-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/29c622de-b0c3-5f33-a46c-56a085040b8a",
+            "url": "https://www.nytimes.com/2025/08/08/technology/ai-chatbots-delusions-chatgpt.html",
+            "id": 100000010278624,
+            "asset_id": 100000010278624,
+            "source": "New York Times",
+            "published_date": "2025-08-08",
+            "updated": "2025-08-12 19:29:26",
+            "section": "Technology",
+            "subsection": "",
+            "nytdsection": "technology",
+            "adx_keywords": "Artificial Intelligence;ChatGPT;Computers and the Internet;Mental Health and Disorders;Content Type: Personal Profile;vis-design",
+            "column": null,
+            "byline": "By Kashmir Hill and Dylan Freedman",
+            "type": "Article",
+            "title": "Chatbots Can Go Into a Delusional Spiral. Here’s How It Happens.",
+            "abstract": "Over 21 days of talking with ChatGPT, an otherwise perfectly sane man became convinced that he was a real-life superhero. We analyzed the conversation.",
+            "des_facet": [
+                "Artificial Intelligence",
+                "ChatGPT",
+                "Computers and the Internet",
+                "Mental Health and Disorders",
+                "Content Type: Personal Profile",
+                "vis-design"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "",
+                    "approved_for_syndication": 0,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2025/08/07/business/biz-ai-delusion-promo/biz-ai-delusion-promo-thumbStandard.png",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2025/08/07/business/biz-ai-delusion-promo/biz-ai-delusion-promo-mediumThreeByTwo210.png",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2025/08/07/business/biz-ai-delusion-promo/biz-ai-delusion-promo-mediumThreeByTwo440.png",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/bc319039-3aba-52f5-a44c-3e68fc4b1abd",
+            "url": "https://www.nytimes.com/2025/08/09/opinion/hollywood-entertainment-woke-progressive.html",
+            "id": 100000010327906,
+            "asset_id": 100000010327906,
+            "source": "New York Times",
+            "published_date": "2025-08-09",
+            "updated": "2025-08-14 20:37:33",
+            "section": "Opinion",
+            "subsection": "",
+            "nytdsection": "opinion",
+            "adx_keywords": "Television;Movies;Liberalism (US Politics);Diversity Initiatives;Discrimination;Minorities;United States Politics and Government;Whites;Trump, Donald J",
+            "column": null,
+            "byline": "By Sharon Waxman",
+            "type": "Article",
+            "title": "Hollywood Is ‘Hot, Horny and White’ Again",
+            "abstract": "The entertainment industry is tired of being so progressive.",
+            "des_facet": [
+                "Television",
+                "Movies",
+                "Liberalism (US Politics)",
+                "Diversity Initiatives",
+                "Discrimination",
+                "Minorities",
+                "United States Politics and Government",
+                "Whites"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Trump, Donald J"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Hunting Wives on Netflix",
+                    "copyright": "Lionsgate",
+                    "approved_for_syndication": 0,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2025/08/13/multimedia/09waxman-bftp/09waxman-bftp-thumbStandard-v3.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2025/08/13/multimedia/09waxman-bftp/09waxman-bftp-mediumThreeByTwo210-v3.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2025/08/13/multimedia/09waxman-bftp/09waxman-bftp-mediumThreeByTwo440-v3.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/f613aca9-1521-5705-bc78-bf90a7429077",
+            "url": "https://www.nytimes.com/2025/08/09/arts/music/met-opera-frick-donor-death.html",
+            "id": 100000010328731,
+            "asset_id": 100000010328731,
+            "source": "New York Times",
+            "published_date": "2025-08-09",
+            "updated": "2025-08-11 23:54:56",
+            "section": "Arts",
+            "subsection": "Music",
+            "nytdsection": "arts",
+            "adx_keywords": "Philanthropy;Culture (Arts);Embezzlement;Deaths (Fatalities);Content Type: Personal Profile;Pietras, Matthew Christopher (d 2025);Soros, Gregory (1988- );Ross, Courtney Sale;Frick Collection;Metropolitan Opera;New York City",
+            "column": null,
+            "byline": "By Julia Jacobs",
+            "type": "Article",
+            "title": "After a Young Arts Patron’s Donation Did Not Clear, He Was Found Dead",
+            "abstract": "Shortly before Matthew Christopher Pietras’s body was discovered, the Metropolitan Opera had been told that the $10 million he had just donated did not belong to him.",
+            "des_facet": [
+                "Philanthropy",
+                "Culture (Arts)",
+                "Embezzlement",
+                "Deaths (Fatalities)",
+                "Content Type: Personal Profile"
+            ],
+            "org_facet": [
+                "Frick Collection",
+                "Metropolitan Opera"
+            ],
+            "per_facet": [
+                "Pietras, Matthew Christopher (d 2025)",
+                "Soros, Gregory (1988- )",
+                "Ross, Courtney Sale"
+            ],
+            "geo_facet": [
+                "New York City"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Matthew Christopher Pietras had established himself as a regular donor to arts institutions in recent years. His abrupt death has raised questions about the source of his money.",
+                    "copyright": "John Nacion/Getty Images",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2025/08/12/multimedia/00pietras-tlpk/00pietras-tlpk-thumbStandard-v3.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2025/08/12/multimedia/00pietras-tlpk/00pietras-tlpk-mediumThreeByTwo210-v3.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2025/08/12/multimedia/00pietras-tlpk/00pietras-tlpk-mediumThreeByTwo440-v3.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/b8cd4bff-0ba3-55dd-acc4-191d5d366489",
+            "url": "https://www.nytimes.com/2025/08/09/opinion/trump-design-rococo-gold.html",
+            "id": 100000010331443,
+            "asset_id": 100000010331443,
+            "source": "New York Times",
+            "published_date": "2025-08-09",
+            "updated": "2025-08-11 11:08:31",
+            "section": "Opinion",
+            "subsection": "",
+            "nytdsection": "opinion",
+            "adx_keywords": "United States Politics and Government;White House Building (Washington, DC);Interior Design and Furnishings;Restoration and Renovation;Trump, Donald J",
+            "column": null,
+            "byline": "By Maureen Dowd",
+            "type": "Article",
+            "title": "President Midas’ Terrible Touch",
+            "abstract": "He never promised us a Rose Garden.",
+            "des_facet": [
+                "United States Politics and Government",
+                "White House Building (Washington, DC)",
+                "Interior Design and Furnishings",
+                "Restoration and Renovation"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Trump, Donald J"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Andrew Caballero-Reynolds/Agence France-Presse — Getty Images",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2025/08/09/multimedia/09dowd-1-hlfz/09dowd-1-hlfz-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2025/08/09/multimedia/09dowd-1-hlfz/09dowd-1-hlfz-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2025/08/09/multimedia/09dowd-1-hlfz/09dowd-1-hlfz-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/7b9a2395-2604-58e9-8d6d-5bfbdac97352",
+            "url": "https://www.nytimes.com/2025/08/09/world/americas/fentanyl-us-mexico-route-cartel-smuggling.html",
+            "id": 100000010248448,
+            "asset_id": 100000010248448,
+            "source": "New York Times",
+            "published_date": "2025-08-09",
+            "updated": "2025-08-10 12:58:47",
+            "section": "World",
+            "subsection": "Americas",
+            "nytdsection": "world",
+            "adx_keywords": "Drug Cartels;Fentanyl;Smuggling;United States Politics and Government;United States International Relations;Sinaloa Cartel;Border Patrol (US);Mexico;Arizona;Culiacan (Mexico);United States",
+            "column": null,
+            "byline": "By Paulina Villegas, Maria Abi-Habib and Adriana Zehbrauskas",
+            "type": "Article",
+            "title": "Secret Compartments and Cartel Lookouts: How Fentanyl Reaches the U.S.",
+            "abstract": "New York Times reporters documented how fentanyl was concealed by Mexico’s most powerful criminal syndicate, which is adapting in the face of a crackdown by two governments.",
+            "des_facet": [
+                "Drug Cartels",
+                "Fentanyl",
+                "Smuggling",
+                "United States Politics and Government",
+                "United States International Relations"
+            ],
+            "org_facet": [
+                "Sinaloa Cartel",
+                "Border Patrol (US)"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Mexico",
+                "Arizona",
+                "Culiacan (Mexico)",
+                "United States"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A liquid, made up of chemicals that help disguise the potent smell of fentanyl, is sprayed on a package.",
+                    "copyright": "Adriana Zehbrauskas for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2025/07/11/world/00int-mexico-smuggling-promo/00int-mexico-smuggling-promo-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2025/07/11/world/00int-mexico-smuggling-promo/00int-mexico-smuggling-promo-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2025/07/11/world/00int-mexico-smuggling-promo/00int-mexico-smuggling-promo-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/b3f0e8a5-b542-5acb-b544-9483fcb14708",
+            "url": "https://www.nytimes.com/2025/08/10/us/mark-zuckerberg-palo-alto.html",
+            "id": 100000010311971,
+            "asset_id": 100000010311971,
+            "source": "New York Times",
+            "published_date": "2025-08-10",
+            "updated": "2025-08-13 23:17:04",
+            "section": "U.S.",
+            "subsection": "",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Zoning;Real Estate and Housing (Residential);High Net Worth Individuals;audio-neutral-informative;Zuckerberg, Mark E;Chan, Priscilla;Facebook Inc;Meta Platforms Inc;Palo Alto (Calif)",
+            "column": null,
+            "byline": "By Heather Knight",
+            "type": "Article",
+            "title": "What Happened When Mark Zuckerberg Moved In Next Door",
+            "abstract": "The billionaire has bought at least 11 properties in Palo Alto, Calif., creating a compound for his family, a private school for his children — and headaches for his neighbors.",
+            "des_facet": [
+                "Zoning",
+                "Real Estate and Housing (Residential)",
+                "High Net Worth Individuals",
+                "audio-neutral-informative"
+            ],
+            "org_facet": [
+                "Facebook Inc",
+                "Meta Platforms Inc"
+            ],
+            "per_facet": [
+                "Zuckerberg, Mark E",
+                "Chan, Priscilla"
+            ],
+            "geo_facet": [
+                "Palo Alto (Calif)"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The gated entrance to a house owned by Mr. Zuckerberg.",
+                    "copyright": "Loren Elliott for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2025/08/08/multimedia/00nat-zuckerberg-bmvl/00nat-zuckerberg-bmvl-thumbStandard-v2.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2025/08/08/multimedia/00nat-zuckerberg-bmvl/00nat-zuckerberg-bmvl-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2025/08/08/multimedia/00nat-zuckerberg-bmvl/00nat-zuckerberg-bmvl-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/cdaa46eb-98ed-5106-a518-9a2be5cee4f5",
+            "url": "https://www.nytimes.com/2025/08/12/nyregion/cuomo-mamdani-rent-stabilized.html",
+            "id": 100000010331190,
+            "asset_id": 100000010331190,
+            "source": "New York Times",
+            "published_date": "2025-08-12",
+            "updated": "2025-08-13 23:19:00",
+            "section": "New York",
+            "subsection": "",
+            "nytdsection": "new york",
+            "adx_keywords": "Elections, Mayors;Rent Control and Stabilization;Affordable Housing;Real Estate and Housing (Residential);Law and Legislation;Politics and Government;Cuomo, Andrew M;Mamdani, Zohran;New York City",
+            "column": null,
+            "byline": "By Nicholas Fandos",
+            "type": "Article",
+            "title": "Cuomo’s Attack on Mamdani’s Apartment Struck a New York Nerve",
+            "abstract": "The attacks in the New York City mayor’s race may have veered into the personal, but they also reflected a larger debate on who should benefit from government regulation of housing costs.",
+            "des_facet": [
+                "Elections, Mayors",
+                "Rent Control and Stabilization",
+                "Affordable Housing",
+                "Real Estate and Housing (Residential)",
+                "Law and Legislation",
+                "Politics and Government"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Cuomo, Andrew M",
+                "Mamdani, Zohran"
+            ],
+            "geo_facet": [
+                "New York City"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Former Gov. Andrew M. Cuomo, left, has attacked Zohran Mamdani, right, for living in a rent-stabilized apartment.",
+                    "copyright": "Hiroko Masuike/The New York Times and Angelina Katsanis for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2025/08/12/nyregion/12met-cuomo-housing-top/12met-cuomo-housing-top-thumbStandard-v2.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2025/08/12/nyregion/12met-cuomo-housing-top/12met-cuomo-housing-top-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2025/08/12/nyregion/12met-cuomo-housing-top/12met-cuomo-housing-top-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/a57b516c-bfd2-54b0-b9ea-a61fce374e26",
+            "url": "https://www.nytimes.com/2025/08/11/us/politics/ohio-maha-moms-farms.html",
+            "id": 100000010308928,
+            "asset_id": 100000010308928,
+            "source": "New York Times",
+            "published_date": "2025-08-11",
+            "updated": "2025-08-14 20:56:30",
+            "section": "U.S.",
+            "subsection": "Politics",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Agriculture and Farming;United States Politics and Government;Vaccination and Immunization;Parenting;Pesticides;Coronavirus (2019-nCoV);Diet and Nutrition;Women and Girls;Local Food;Kennedy, Robert F Jr;Ohio",
+            "column": null,
+            "byline": "By Caroline Kitchener and Maddie McGarvey",
+            "type": "Article",
+            "title": "This Ohio Farm Community Is a Mecca for the ‘MAHA Mom’",
+            "abstract": "In a neighborhood that appeals to people from both the right and the left, residents strive for a finely tuned state of political harmony.",
+            "des_facet": [
+                "Agriculture and Farming",
+                "United States Politics and Government",
+                "Vaccination and Immunization",
+                "Parenting",
+                "Pesticides",
+                "Coronavirus (2019-nCoV)",
+                "Diet and Nutrition",
+                "Women and Girls",
+                "Local Food"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Kennedy, Robert F Jr"
+            ],
+            "geo_facet": [
+                "Ohio"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Children learning to garden with their mothers during a “Kids Farm Day” event earlier this month in Aberlin Springs, an “agri-community” in southwest Ohio.",
+                    "copyright": "Maddie McGarvey for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2025/08/07/us/politics/XXDC-MAHAfarm-promo/XXDC-MAHAfarm-25-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2025/08/07/us/politics/XXDC-MAHAfarm-promo/XXDC-MAHAfarm-25-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2025/08/07/us/politics/XXDC-MAHAfarm-promo/XXDC-MAHAfarm-25-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/a122af6a-c5db-5fb1-887b-504a8f06740b",
+            "url": "https://www.nytimes.com/2025/08/08/style/modern-love-just-here-for-the-sex-please.html",
+            "id": 100000010322335,
+            "asset_id": 100000010322335,
+            "source": "New York Times",
+            "published_date": "2025-08-08",
+            "updated": "2025-08-12 12:38:59",
+            "section": "Style",
+            "subsection": "",
+            "nytdsection": "style",
+            "adx_keywords": "Sex;Dating and Relationships;Love (Emotion);internal-audio-rules;Costa Rica",
+            "column": null,
+            "byline": "By Ros Barber",
+            "type": "Article",
+            "title": "We’re Just Here for the Sex, Please",
+            "abstract": "When learning tantric sex in paradise, it can be hard to separate the physical from the emotional.",
+            "des_facet": [
+                "Sex",
+                "Dating and Relationships",
+                "Love (Emotion)",
+                "internal-audio-rules"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Costa Rica"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Brian Rea",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2025/08/10/fashion/10ST-MODERN-BARBER/10ST-MODERN-BARBER-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2025/08/10/fashion/10ST-MODERN-BARBER/10ST-MODERN-BARBER-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2025/08/10/fashion/10ST-MODERN-BARBER/10ST-MODERN-BARBER-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/e5b1d072-2dee-5354-8859-edbe48605cfc",
+            "url": "https://www.nytimes.com/2025/08/07/well/mind/super-agers-social-connections.html",
+            "id": 100000010309735,
+            "asset_id": 100000010309735,
+            "source": "New York Times",
+            "published_date": "2025-08-07",
+            "updated": "2025-08-09 00:40:13",
+            "section": "Well",
+            "subsection": "Mind",
+            "nytdsection": "well",
+            "adx_keywords": "Elderly;Friendship;Brain;Longevity;Memory;Loneliness;Anxiety and Stress;Alzheimer's Disease;Age, Chronological;Research",
+            "column": null,
+            "byline": "By Dana G. Smith",
+            "type": "Article",
+            "title": "The One Quality Most ‘Super-Agers’ Share",
+            "abstract": "After 25 years of research on this notable group, here’s what stands out.",
+            "des_facet": [
+                "Elderly",
+                "Friendship",
+                "Brain",
+                "Longevity",
+                "Memory",
+                "Loneliness",
+                "Anxiety and Stress",
+                "Alzheimer's Disease",
+                "Age, Chronological",
+                "Research"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "“Super-ager” Ralph Rehbock, 91, is part of a men’s singing group called the Meltones. They meet every week.",
+                    "copyright": "Lyndon French for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2025/08/05/multimedia/WELL-SUPERAGERS-UPDATE-wjmv/WELL-SUPERAGERS-UPDATE-wjmv-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2025/08/05/multimedia/WELL-SUPERAGERS-UPDATE-wjmv/WELL-SUPERAGERS-UPDATE-wjmv-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2025/08/05/multimedia/WELL-SUPERAGERS-UPDATE-wjmv/WELL-SUPERAGERS-UPDATE-wjmv-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/da99cec8-004a-54e5-bd06-fe832197928a",
+            "url": "https://www.nytimes.com/2025/08/10/technology/coding-ai-jobs-students.html",
+            "id": 100000010290785,
+            "asset_id": 100000010290785,
+            "source": "New York Times",
+            "published_date": "2025-08-10",
+            "updated": "2025-08-14 20:41:53",
+            "section": "Technology",
+            "subsection": "",
+            "nytdsection": "technology",
+            "adx_keywords": "Colleges and Universities;Artificial Intelligence;Internships;Labor and Jobs;Layoffs and Job Reductions;Computers and the Internet;ChatGPT;Hiring and Promotion;United States Economy;audio-neutral-informative;Purdue University;Microsoft Corp;Oregon State University;Georgetown University;Clark University",
+            "column": null,
+            "byline": "By Natasha Singer",
+            "type": "Article",
+            "title": "Goodbye, $165,000 Tech Jobs. Student Coders Seek Work at Chipotle.",
+            "abstract": "As companies like Amazon and Microsoft lay off workers and embrace A.I. coding tools, computer science graduates say they’re struggling to land tech jobs.",
+            "des_facet": [
+                "Colleges and Universities",
+                "Artificial Intelligence",
+                "Internships",
+                "Labor and Jobs",
+                "Layoffs and Job Reductions",
+                "Computers and the Internet",
+                "ChatGPT",
+                "Hiring and Promotion",
+                "United States Economy",
+                "audio-neutral-informative"
+            ],
+            "org_facet": [
+                "Purdue University",
+                "Microsoft Corp",
+                "Oregon State University",
+                "Georgetown University",
+                "Clark University"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Manasi Mishra recently graduated from Purdue University with a degree in computer science.",
+                    "copyright": "Madeleine Hordinski for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2025/07/28/multimedia/AI-jobs-Mishra-01-cjwl/AI-jobs-Mishra-01-cjwl-thumbStandard-v2.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2025/07/28/multimedia/AI-jobs-Mishra-01-cjwl/AI-jobs-Mishra-01-cjwl-mediumThreeByTwo210-v5.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2025/07/28/multimedia/AI-jobs-Mishra-01-cjwl/AI-jobs-Mishra-01-cjwl-mediumThreeByTwo440-v5.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        }
+    ]
+}

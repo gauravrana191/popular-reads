@@ -1,0 +1,15 @@
+{
+  "uri": "nyt://article/abc123",
+  "url": "https://example.com/article",
+  "id": 123456,
+  "asset_id": 123456,
+  "source": "The New York Times",
+  "published_date": "2024-08-16",
+  "updated": "2024-08-17",
+  "section": "Technology",
+  "title": "Exciting Tech News",
+  "abstract": "An exciting update on technology.",
+  "byline": "By John Doe",
+  "media": null
+}
+
