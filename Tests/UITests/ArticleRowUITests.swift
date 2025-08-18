@@ -55,6 +55,7 @@ final class ArticleRowUITests: XCTestCase {
         
         // Check detail screen by a unique identifier
         let detailView = app.scrollViews["articleDetailView"]
+        XCTAssertTrue(detailView.waitForExistence(timeout: 5), "Detail view should be visible after tapping a row")
         let readArticleButton = detailView.buttons["detailArticleReadFullArticleButton"]
         XCTAssertTrue(readArticleButton.exists)
         readArticleButton.tap()

@@ -17,17 +17,15 @@ final class PopularArticleViewModel: ObservableObject {
     }
 
     @MainActor
-    func loadArticles() {
+    func loadArticles() async {
         self.state = .loading
-        Task {
-            do {
-                let articles = try await self.api.fetchArticles()
-                self.state = .loaded(articles)
-            } catch let error as AppError {
-                self.state = .error(error.localizedDescription)
-            } catch {
-                self.state = .error(AppError.unknown.localizedDescription)
-            }
+        do {
+            let articles = try await self.api.fetchArticles()
+            self.state = .loaded(articles)
+        } catch let error as AppError {
+            self.state = .error(error.localizedDescription)
+        } catch {
+            self.state = .error(AppError.unknown.localizedDescription)
         }
     }
 }

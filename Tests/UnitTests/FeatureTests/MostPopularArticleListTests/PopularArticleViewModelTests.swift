@@ -35,8 +35,7 @@ extension PopularArticleViewModelTests {
         mockedAPI.articleListCase = .successWithNoArticle
         viewModel = PopularArticleViewModel(api: mockedAPI)
 
-        viewModel.loadArticles()
-        try await Task.sleep(nanoseconds: 100_000_000) // 0.1s
+        await viewModel.loadArticles()
 
         if case .loaded(let articles) = viewModel.state {
             XCTAssertTrue(articles.isEmpty)
@@ -50,8 +49,7 @@ extension PopularArticleViewModelTests {
         mockedAPI.articleListCase = .successWithSingleArticle
         viewModel = PopularArticleViewModel(api: mockedAPI)
 
-        viewModel.loadArticles()
-        try await Task.sleep(nanoseconds: 100_000_000)
+        await viewModel.loadArticles()
 
         if case .loaded(let articles) = viewModel.state {
             XCTAssertEqual(articles.count, 1)
@@ -65,8 +63,7 @@ extension PopularArticleViewModelTests {
         mockedAPI.articleListCase = .successWithMultipleArticles
         viewModel = PopularArticleViewModel(api: mockedAPI)
 
-        viewModel.loadArticles()
-        try await Task.sleep(nanoseconds: 100_000_000)
+        await viewModel.loadArticles()
 
         if case .loaded(let articles) = viewModel.state {
             XCTAssertEqual(articles.count, 20)
@@ -84,8 +81,7 @@ extension PopularArticleViewModelTests {
         mockedAPI.articleListCase = .notFound
         viewModel = PopularArticleViewModel(api: mockedAPI)
 
-        viewModel.loadArticles()
-        try await Task.sleep(nanoseconds: 100_000_000)
+        await viewModel.loadArticles()
 
         if case .error(let message) = viewModel.state {
             XCTAssertEqual(message, "We couldn't find what you're looking for.")
@@ -99,8 +95,7 @@ extension PopularArticleViewModelTests {
         mockedAPI.articleListCase = .networkError
         viewModel = PopularArticleViewModel(api: mockedAPI)
 
-        viewModel.loadArticles()
-        try await Task.sleep(nanoseconds: 100_000_000)
+        await viewModel.loadArticles()
 
         if case .error(let message) = viewModel.state {
             XCTAssertEqual(message, "A network error occurred: The operation couldn’t be completed. ( error 500.)")
@@ -114,8 +109,7 @@ extension PopularArticleViewModelTests {
         mockedAPI.articleListCase = .decodingError
         viewModel = PopularArticleViewModel(api: mockedAPI)
 
-        viewModel.loadArticles()
-        try await Task.sleep(nanoseconds: 200_000_000)
+        await viewModel.loadArticles()
 
         if case .error(let message) = viewModel.state {
             XCTAssertEqual(message, "Something went wrong. Please try again later.")
@@ -129,8 +123,7 @@ extension PopularArticleViewModelTests {
         mockedAPI.articleListCase = .unknownError
         viewModel = PopularArticleViewModel(api: mockedAPI)
 
-        viewModel.loadArticles()
-        try await Task.sleep(nanoseconds: 100_000_000)
+        await viewModel.loadArticles()
 
         if case .error(let message) = viewModel.state {
             XCTAssertEqual(message, "Something went wrong. Please try again later.")

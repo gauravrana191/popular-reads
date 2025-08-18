@@ -29,7 +29,7 @@ struct PopularArticleListScreen: View {
             }
             .accessibilityIdentifier("mainContentainer")
             .task {
-                viewModel.loadArticles()
+                await viewModel.loadArticles()
             }
             .navigationTitle("Most Popular Articles")
         }
@@ -38,7 +38,9 @@ struct PopularArticleListScreen: View {
     
     func errorView(for message: String) -> some View {
         ErrorView(message: message) {
-            viewModel.loadArticles()
+            Task {
+                await viewModel.loadArticles()
+            }
         }
     }
     var loadingView: some View {
